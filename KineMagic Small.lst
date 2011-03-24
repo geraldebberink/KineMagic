@@ -1,0 +1,77 @@
+eeschema (2010-05-05 BZR 2356)-stable  >> Creation date: 14/03/2011 09:25:55
+
+#Cmp ( order = Reference )
+| C1         10 nF       ; SM0805      
+| C2         10 nF       ; SM0805      
+| C3         10 nF       ; SM0805      
+| C4         10 nF       ; SM0805      
+| C5         10 nF       ; SM0805      
+| C6         10 uF       ; cap-pan40-SV-D
+| C7         100 nF      ; SM0805      
+| D1         1N4148W     ; diode-SOD123
+| D2         1N4148W     ; diode-SOD123
+| D3         1N4148W     ; diode-SOD123
+| D4         1N4841W     ; diode-SOD123
+| D5         LED         ; LED-0805    
+| D6         LED         ; LED-0805    
+| D7         LED         ; LED-0805    
+| D8         LED         ; LED-0805    
+| GS1        GS2         ; GS2         
+| GS2        GS3         ; GS3         
+| IC1        L6470       ; HTSSOP28    
+| P1         C-Power     ; pin_array_3x2
+| P2         Interface   ; pin_array_8x2
+| P3         M-POWER     ; PIN_ARRAY_2X1
+| P4         MAX         ; SIL-4       
+| P5         MIN         ; SIL-4       
+| P6         Motor 1     ; PIN_ARRAY_2X1
+| P7         Motor 2     ; PIN_ARRAY_2X1
+| R1         100         ; SM0805      
+| R2         1k          ; SM0805      
+| R3         1k          ; SM0805      
+| R4         39k         ; SM0805      
+| R5         39k         ; SM0805      
+| R6         39k         ; SM0805      
+| R7         Ra          ; SM0805      
+| RV1        20 k        ; RV2         
+| X1         32 MHz      ; crystal-MM20SS
+#End Cmp
+
+#Cmp ( order = Value )
+| 10 nF        C1        ; SM0805      
+| 10 nF        C2        ; SM0805      
+| 10 nF        C3        ; SM0805      
+| 10 nF        C4        ; SM0805      
+| 10 nF        C5        ; SM0805      
+| 10 uF        C6        ; cap-pan40-SV-D
+| 100          R1        ; SM0805      
+| 100 nF       C7        ; SM0805      
+| 1k           R2        ; SM0805      
+| 1k           R3        ; SM0805      
+| 1N4148W      D1        ; diode-SOD123
+| 1N4148W      D2        ; diode-SOD123
+| 1N4148W      D3        ; diode-SOD123
+| 1N4841W      D4        ; diode-SOD123
+| 20 k         RV1       ; RV2         
+| 32 MHz       X1        ; crystal-MM20SS
+| 39k          R4        ; SM0805      
+| 39k          R5        ; SM0805      
+| 39k          R6        ; SM0805      
+| C-Power      P1        ; pin_array_3x2
+| GS2          GS1       ; GS2         
+| GS3          GS2       ; GS3         
+| Interface    P2        ; pin_array_8x2
+| L6470        IC1       ; HTSSOP28    
+| LED          D5        ; LED-0805    
+| LED          D6        ; LED-0805    
+| LED          D7        ; LED-0805    
+| LED          D8        ; LED-0805    
+| M-POWER      P3        ; PIN_ARRAY_2X1
+| MAX          P4        ; SIL-4       
+| MIN          P5        ; SIL-4       
+| Motor 1      P6        ; PIN_ARRAY_2X1
+| Motor 2      P7        ; PIN_ARRAY_2X1
+| Ra           R7        ; SM0805      
+#End Cmp
+
+#End List

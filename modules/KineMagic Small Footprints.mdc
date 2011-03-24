@@ -1,0 +1,67 @@
+PCBNEW-LibDoc----V1  24/03/2011 13:16:38
+#
+$MODULE cap-pan40-SV-D
+Li cap-pan40-SV-D
+Cd SMD ELECTROLYTIC - SIZE D
+Kw SMD ELECTROLYTIC - SIZE D
+$EndMODULE
+#
+$MODULE crystal-MM20SS
+Li crystal-MM20SS
+Cd CRYSTAL
+Kw CRYSTAL
+$EndMODULE
+#
+$MODULE GS2
+Li GS2
+Cd Pontet Goute de soudure
+$EndMODULE
+#
+$MODULE GS3
+Li GS3
+Cd Pontet Goute de soudure
+$EndMODULE
+#
+$MODULE LED-0805
+Li LED-0805
+Cd LED 0805 smd package
+Kw LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+$EndMODULE
+#
+$MODULE RV2
+Li RV2
+Cd Resistance variable / potentiometre
+Kw R
+$EndMODULE
+#
+$MODULE pin_array_3x2
+Li pin_array_3x2
+Cd Double rangee de contacts 2 x 4 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE pin_array_8x2
+Li pin_array_8x2
+Cd Double rangee de contacts 2 x 8 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE PIN_ARRAY_2X1
+Li PIN_ARRAY_2X1
+Cd Connecteurs 2 pins
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE SIL-4
+Li SIL-4
+Cd Connecteur 4 pibs
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE SOD123
+Li SOD123
+Cd DIODE
+Kw DIODE
+$EndMODULE
+#
+$EndLIBDOC
